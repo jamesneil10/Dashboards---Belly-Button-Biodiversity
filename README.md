@@ -1,6 +1,6 @@
 ﻿# Belly Button Biodiversity
 
-![Bacteria by filterforge.com](Images/bacteria_by_filterforgedotcom.jpg)
+![Bacteria by filterforge.com](images/bacteria_by_filterforgedotcom.jpg)
 
 In this assignment, you will build an interactive dashboard to explore the [Belly Button Biodiversity DataSet](http://robdunnlab.com/projects/belly-button-biodiversity/).
 
@@ -40,8 +40,8 @@ Use Plotly.js to build interactive charts for your dashboard.
 
 * You are welcome to create any layout that you would like for your dashboard. An example dashboard page might look something like the following.
 
-![Example Dashboard Page](Images/dashboard_part1.png)
-![Example Dashboard Page](Images/dashboard_part2.png)
+![Example Dashboard Page](images/dashboard_part1.png)
+![Example Dashboard Page](images/dashboard_part2.png)
 
 ## Step 2 - Heroku
 
@@ -63,7 +63,7 @@ The following task is completely optional and is very advanced.
 
 * Update the chart whenever a new sample is selected
 
-![Weekly Washing Frequency Gauge](Images/gauge.png)
+![Weekly Washing Frequency Gauge](images/gauge.png)
 
 - - -
 
